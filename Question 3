@@ -1,0 +1,7 @@
+ main() {
+//3.Print "Hello KGI !!" with double quotes.#include <stdio.h>
+//Sachin kumar 
+//23010100085
+    printf("\"Hello KGI !!\"\n");
+    return 0;
+}
